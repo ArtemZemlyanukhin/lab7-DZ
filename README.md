@@ -23,7 +23,8 @@
 
 ### Блок-схема
 
- 
+ <img width="478" height="1013" alt="image" src="https://github.com/user-attachments/assets/282665da-f835-465a-9959-f842cde000d6" />
+
 
 
 
